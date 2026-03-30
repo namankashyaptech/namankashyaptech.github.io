@@ -1,5 +1,8 @@
 ---
-layout: Home
+layout: default
+title: Home
 ---
 
-# My Portfolio 🚀
+# Hi, I'm Naman 👋
+
+
