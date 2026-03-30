@@ -1,6 +1,6 @@
 ---
 layout: single
-title: home
+title: Home
 ---
 
 # My Portfolio 🚀
